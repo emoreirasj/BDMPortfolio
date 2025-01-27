@@ -14,7 +14,7 @@ export default function Home() {
         ></iframe>
       </div>
       <a
-        href="https://www.canva.com/design/DAGalug2LKg/HSt5I7XYvj4YG1msKpD5hA/view?utm_content=DAGalug2LKg&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
+        href="https://www.bigdealmarketing.com.br"
         target="_blank"
         rel="noopener noreferrer"
       >
