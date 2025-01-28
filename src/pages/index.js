@@ -7,9 +7,9 @@ export default function Home() {
       <Header />
       <div className="iframe-container">
         <iframe
-          title="Visualização do design BIG DEAL MKT no Canva"
+          title="Visualização do design BIG DEAL MKT no Figma"
           loading="lazy"
-          src="https://www.canva.com/design/DAGdav8Cd9g/zrDVs9TMJ_m4x-A2m5BD4w/view?embed" 
+          src="https://embed.figma.com/proto/iA6FAt0LNYeOlXqJtTLq0F/BIG-DEAL-MKT?node-id=273-200&p=f&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=273%3A200&show-proto-sidebar=1&embed-host=share" 
           allowFullScreen
         ></iframe>
       </div>
