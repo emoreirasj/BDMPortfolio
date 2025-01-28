@@ -9,7 +9,7 @@ export default function Home() {
         <iframe
           title="Visualização do design BIG DEAL MKT no Figma"
           loading="lazy"
-          src="https://embed.figma.com/proto/iA6FAt0LNYeOlXqJtTLq0F/BIG-DEAL-MKT?node-id=273-200&p=f&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=273%3A200&show-proto-sidebar=1&embed-host=share" 
+          src="https://embed.figma.com/proto/iA6FAt0LNYeOlXqJtTLq0F/BIG-DEAL-MKT?node-id=273-200&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=273%3A200&hotspot-hints=0&embed-host=share" 
           allowFullScreen
         ></iframe>
       </div>
